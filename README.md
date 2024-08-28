@@ -25,7 +25,5 @@ Este projeto tem como objetivo criptografar e descriptografar textos utilizando 
 * `o` -> `ober`
 * `u` -> `ufat`
 
-**Demonstração:**
-[Link para seu projeto deployado]
 
 **Desenvolvido por:** Bruno Lowczy | GitHub: https://github.com/blowczy
